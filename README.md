@@ -7,3 +7,7 @@ http://code.haskell.org/~duncan/cabal-ast-experiment/
 An additional experiment is to add annotations using the same technique as in
 https://github.com/shayan-najd/NativeMetaprogramming/blob/master/HsSyn/SyntaxProductIndexed.hs,
 with the tweaks suggested by @yav
+
+
+The proposal is to use GenericPackageDescription as the basis for any
+source-source representation.
